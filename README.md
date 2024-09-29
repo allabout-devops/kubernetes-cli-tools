@@ -6,4 +6,3 @@ Example
         kgp -n test
         kgp nginx test -n test
 
-![alt text](images/image.png)
