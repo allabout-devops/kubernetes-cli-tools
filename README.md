@@ -16,5 +16,6 @@ Example
 
 ##
         kns         # List all namespaces with index number 
-        kns test    # Switch to test namespace
+        # Use namespace name or index number with kns to switch namespace
+        kns test     # Switch to test namespace
 
